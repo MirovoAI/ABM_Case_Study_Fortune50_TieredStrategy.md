@@ -36,3 +36,4 @@ Learning Outcome
 What this project taught me is that ABM success depends less on martech complexity and more on cross-functional sales alignment and contextual personalization. It all boils down to how fast you close the deal or set up SLA’s with the sales team to close the deal before lead goes cold especially in 1:few accounts. 
 PS: Having that rapport with the sales team is imperative! If you don’t Cleary communicate the MQL needs and pain points to sales team before they dive in, all your effort will go to trash. 
  
+© 2025 Shiv Hoysala. All rights reserved.
