@@ -1,4 +1,5 @@
 # ABM_Case_Study_Fortune50_TieredStrategy.md
+ Scaling ABM Across Three Tiers: $12 M Fortune 50 Account and Beyond
 This case study illustrates how I applied Bev Burgess’s ABM framework across 1:1, 1:Few, and 1:Many tiers to drive measurable pipeline impact for a Fortune 50 healthcare client
 Framework Reference: Framework adapted from Account-Based Marketing by Bev Burgess (ITSMA Framework – Identify → Expand → Engage → Convert → Grow).
 Structure Used: Identify → Expand → Engage → Convert → Grow
@@ -21,11 +22,11 @@ Tier	Approach	Key Assets	Channels Used
 Convert Sales Alignment & Pipeline Influence
 •	I Built a joint Sales–Marketing dashboard in Power BI integrating HubSpot and LinkedIn data to track account engagement scores.
 •	I then Set up Weekly stand-ups with sales for account progress review.
-•	Lastly I Re-prioritized budget toward accounts showing >35% intent surge, resulting in 25% MQL-to-SQL conversion rate within two quarters.
+•	Lastly, I Re-prioritized budget toward accounts showing >35% intent surge, resulting in 25% MQL-to-SQL conversion rate within two quarters.
 Grow  Post-Sale and Advocacy ( Most Important) 
 •	For the Fortune 50 client, I launched a joint innovation newsletter series and co-branded webinar for their partner ecosystem, unlocking two upsell opportunities (~$3 M total).
 •	For Tier 2 accounts, I initiated a customer reference program that fed social proof into new campaigns.
-📈 Results
+Results
 Metric	Outcome
 Pipeline Influence	$14 M total, of which $12 M from the 1:1 account
 SQL Conversion	↑ 32% in two quarters
@@ -34,3 +35,4 @@ Cost Efficiency	27% reduction in CPL via ABM tiering
 Learning Outcome
 What this project taught me is that ABM success depends less on martech complexity and more on cross-functional sales alignment and contextual personalization. It all boils down to how fast you close the deal or set up SLA’s with the sales team to close the deal before lead goes cold especially in 1:few accounts. 
 PS: Having that rapport with the sales team is imperative! If you don’t Cleary communicate the MQL needs and pain points to sales team before they dive in, all your effort will go to trash. 
+ 
