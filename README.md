@@ -1,4 +1,3 @@
-# ABM_Case_Study_Fortune50_TieredStrategy.md
 # ABM Across Three Tiers: $12M Fortune 50 Account and Beyond
 
 This case study illustrates how I applied **Bev Burgess’s Account-Based Marketing (ABM) framework** across **1:1**, **1:Few**, and **1:Many** tiers to drive measurable pipeline impact for a Fortune 50 healthcare client.
